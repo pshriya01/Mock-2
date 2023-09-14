@@ -1,20 +1,46 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Chandra",
-        "age": 25,
-        "place": "Visakhapatnam",
-        "batch_name": "WEB-21",
-        "profession": "FSD"
-      },
-      {
-        "id": 2,
-        "name": "Nrupul",
-        "age": 37,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      }
-    ]
-  }
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Kommy",
+      "age": 4,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Dash",
+      "age": 5,
+      "place": "Andra",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Oreo",
+      "age": 4,
+      "place": "Delhi",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Duke",
+      "age": 4,
+      "place": "Delhi",
+      "gender": "Male"
+    }
+  ]
+}
